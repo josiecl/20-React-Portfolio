@@ -22,6 +22,11 @@ function Header() {
         <section className="collapse navbar-collapse"  id="navbarSupportedContent">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item active">
+              <a className="nav-link" href="/Home">
+                Home
+              </a>
+            </li>
+            <li className="nav-item active">
               <a className="nav-link" href="/Portfolio">
                 Portfolio
               </a>

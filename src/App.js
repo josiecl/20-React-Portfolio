@@ -1,5 +1,6 @@
 import React from "react";
-import { HashRouter as Router, Route } from "react-router-dom";
+// import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import './App.css';
 import Home from './pages/Home';
 import Contact from './pages/Contact';
@@ -15,14 +16,24 @@ function App() {
         <div>
           {/* <NavTabs /> */}
           <Header />
-          <Route exact path="/" component={Home} />
-          <Route exact path="/portfolio" component={Portfolio} />
-          <Route path="/contact" component={Contact} />
+          <Switch>
+            <Route exact path="/" component={Home} />
+            <Route exact path="/home" component={Home} />
+            <Route exact path="/portfolio" component={Portfolio} />
+            <Route path="/contact" component={Contact} />
+          </Switch>
           <Footer />
         </div>
       </Router>
   );
 }
 
+{/* <Switch>
+        <Route exact path="/" component={Homepage} />
+        <Route exact path="/homepage" component={Homepage} />
+        <Route exact path="/gamedashboard" component={GameDashboard} />
+        <Route exact path="/gameroom" component={Gameroom} />
+        <Route exact path="/profile" component= {Profile}/>
+      </Switch> */}
 
 export default App;
