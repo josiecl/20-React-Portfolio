@@ -32,7 +32,7 @@ function Header() {
               </a>
             </li>
             <li className="nav-item active">
-              <a className="nav-link" href="#">Download Resume</a>
+              <a className="nav-link" href="jcollresume.pdf" download>Download Resume</a>
             </li>
             
           </ul>

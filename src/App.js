@@ -4,8 +4,8 @@ import './App.css';
 import Home from './pages/Home';
 import Contact from './pages/Contact';
 import Portfolio from './pages/Portfolio';
-import Footer from './components/Footer'
-import Header from './components/Header'
+import Footer from './components/Footer';
+import Header from './components/Header';
 
 // import API from './utils/API';
 function App() {
@@ -16,8 +16,8 @@ function App() {
           {/* <NavTabs /> */}
           <Header />
           <Route exact path="/" component={Home} />
-          {/* <Route exact path="/portfolio" component={Portfolio} />
-          <Route path="/contact" component={Contact} /> */}
+          <Route exact path="/portfolio" component={Portfolio} />
+          <Route path="/contact" component={Contact} />
           <Footer />
         </div>
       </Router>
