@@ -5,13 +5,16 @@ import App from './App';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.js';
 import 'bootstrap/js/dist/dropdown';
-import $ from 'jquery';
-import Popper from 'popper.js';
+
 
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* <HashRouter
+      basename={"/"}
+    > */}
+      <App />
+    {/* </HashRouter> */}
   </React.StrictMode>,
   document.getElementById('root')
 );

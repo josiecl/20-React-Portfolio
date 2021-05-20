@@ -1,5 +1,7 @@
 import React from "react";
-import { Col, Row, Container } from "../components/Grid"
+import { Col, Row, Container } from "../components/Grid";
+import ProjectContent from "../components/Project/project.json";
+import Project from "../components/Project/index";
 
 
 
@@ -8,13 +10,21 @@ const Portfolio = () => {
     <Container fluid>
       <Row>
         <Col size="sm-3">
-          f
+          
         </Col>
         <Col size="sm-6">
-          x
+          {ProjectContent.map((project) => (
+            <Project
+              title = {project.title}
+              image = {project.image}
+              description = {project.description}
+              repo = {project.repository}
+              live = {project.liveLink}
+            />
+          ))}
         </Col>
         <Col size="sm-3">
-          f
+          
         </Col>
       </Row>
     </Container>

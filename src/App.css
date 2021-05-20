@@ -1,3 +1,48 @@
+body {
+  height: auto;
+  background-image: url("./assets/Vinewall.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 70px;
+}
+
+.titleWord {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+.aboutMe {
+  border: 1px solid gray;
+  margin-top: 7px;
+  background-color: white;
+  border-radius: 3px 3px;
+  box-shadow: 0 20px 40px 0 rgba(15, 15, 15, 0.4);
+}
+
+.webInfo {
+  text-align: center;
+  border: 1px solid gray;
+  background-color: white;
+  box-shadow: 0 40px 60px 0 rgba(15, 15, 15, 0.4);
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border-radius: 4px 4px;
+}
+
+.webImg {
+  border: 2px solid gray;
+}
+
+
+.profile {
+  margin-top: 10px;
+  box-shadow: 0 20px 30px 0 rgba(15, 15, 15, 0.4);
+  height: 500px;
+  width: 500px;
+}
+
 .App {
   text-align: center;
 }

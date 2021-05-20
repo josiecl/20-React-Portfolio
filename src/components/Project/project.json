@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "title": "Bookflix",
+    "image": "Screenshot (1084).png",
+    "repository": "https://github.com/OmaurBliss/Seinfeld.oi",
+    "liveLink": "https://omaurbliss.github.io/Seinfeld.oi/",
+    "description": "A fun site for searching the name of a movie, which will then return books related to the movie and allow the user to check past searches."
+    },
+    {
+      "id": 2,
+      "title": "Dear Diary",
+      "image": "DearDiarySS1.PNG",
+      "repository": "https://github.com/sammiefrog/theHungryMonkey",
+      "liveLink": "https://team-awesome-project2.herokuapp.com/",
+      "description": "An app where a user can search for recipes or restaurants by a specific food they enter in the search bar."
+    },
+    {
+      "id": 3,
+      "title": "Sticklers Paradise",
+      "image": "",
+      "repository": "https://github.com/sammiefrog/rules",
+      "liveLink": "https://sticklersparadise.herokuapp.com/",
+      "description": "An open sourced app to house game rules. Users can create an account and login to add games, or anyone can view or search games."
+    },
+    {
+      "id": 4,
+      "title": "README Generator",
+      "image": "",
+      "repository": "https://github.com/sammiefrog/readme-generator",
+      "liveLink": "https://github.com/sammiefrog/readme-generator",
+      "description": "A Node.js application to automatically generate a README.md file, using the Github API for users profile image."
+    },
+    {
+      "id": 5,
+      "title": "Feed the Frog a Burger",
+      "image": "",
+      "repository": "https://github.com/sammiefrog/eat-da-burger",
+      "liveLink": "https://burger-frogs.herokuapp.com/",
+      "description": "A simple app demonstatrating the use of Handlebars, you one can add burgers and 'devour' or 'regurgitate' them."
+    },
+    {
+      "id": 6,
+      "title": "Employee Directory",
+      "image": "",
+      "repository": "https://github.com/sammiefrog/EmployeeDirectory",
+      "liveLink": "https://sammiefrog.github.io/EmployeeDirectory/",
+      "description": "A simple React app demonstrating the use of sorting and searching through a table of random user data."
+    }
+]
