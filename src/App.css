@@ -5,7 +5,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-bottom: 70px;
+  margin-bottom: 100px;
 }
 
 .titleWord {
@@ -20,6 +20,35 @@ body {
   background-color: white;
   border-radius: 3px 3px;
   box-shadow: 0 20px 40px 0 rgba(15, 15, 15, 0.4);
+}
+
+.phone {
+  margin-bottom: 4px;
+  
+}
+
+.webContain {
+  margin-bottom: 50px;
+}
+
+.contact {
+  background-color: white;
+  border-radius: 3px 3px;
+  margin-top: 15px;
+  box-shadow: 0 20px 40px 0 rgba(15, 15, 15, 0.4);
+  border: 1px solid black;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  background-color: rgb(60, 205, 125, .8);
+  border: 1px solid black;
+  margin-top: 5px;
+  box-shadow: 0 20px 30px 0 rgba(15, 15, 15, 0.4);
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  border-radius: 4px 4px;
 }
 
 .webInfo {

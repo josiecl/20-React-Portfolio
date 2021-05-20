@@ -13,6 +13,7 @@ const Portfolio = () => {
           
         </Col>
         <Col size="sm-6">
+        <h2 class="title ">Websites I've Made</h2>
           {ProjectContent.map((project) => (
             <Project
               title = {project.title}

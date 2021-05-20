@@ -17,7 +17,7 @@
     {
       "id": 3,
       "title": "Dog Quiz",
-      "image": "",
+      "image": "Screenshot (1053).png",
       "repository": "https://github.com/josiecl/04-Coding-Quiz",
       "liveLink": "https://josiecl.github.io/04-Coding-Quiz/",
       "description": "A simple quiz using basic javascript and html about dogs and dog breeds."
@@ -25,7 +25,7 @@
     {
       "id": 4,
       "title": "Day Planner",
-      "image": "",
+      "image": "Screenshot (1113).png",
       "repository": "https://github.com/josiecl/05-Day-Planner",
       "liveLink": "https://josiecl.github.io/05-Day-Planner/",
       "description": "An app that allows users to set reminders per hour of the work day, and alerts users when that hour is over. Very helpful for scheduling during the work day."
@@ -33,7 +33,7 @@
     {
       "id": 5,
       "title": "Budget Tracker",
-      "image": "",
+      "image": "18-budget-2.PNG",
       "repository": "https://github.com/josiecl/18-Budget-Tracker",
       "liveLink": "https://agile-falls-95966.herokuapp.com/",
       "description": "An app that allows the users to input transactions in order to keep on top of their budget. Has offline functionality."
@@ -41,7 +41,7 @@
     {
       "id": 6,
       "title": "Employee Directory",
-      "image": "",
+      "image": "19-directory-1.PNG",
       "repository": "https://github.com/josiecl/19-React-Directory",
       "liveLink": "https://josiecl.github.io/19-React-Directory/",
       "description": "An app built in React that finds employees by the letters searched."
