@@ -1,7 +1,7 @@
 [{
     "id": 1,
     "title": "Bookflix",
-    "image": "Screenshot (1084).png",
+    "image": "bookflix.png",
     "repository": "https://github.com/OmaurBliss/Seinfeld.oi",
     "liveLink": "https://omaurbliss.github.io/Seinfeld.oi/",
     "description": "A fun site for searching the name of a movie, which will then return books related to the movie and allow the user to check past searches."
