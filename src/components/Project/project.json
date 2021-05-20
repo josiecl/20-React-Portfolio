@@ -10,40 +10,40 @@
       "id": 2,
       "title": "Dear Diary",
       "image": "DearDiarySS1.PNG",
-      "repository": "https://github.com/sammiefrog/theHungryMonkey",
+      "repository": "https://github.com/josiecl/Team-Awesome",
       "liveLink": "https://team-awesome-project2.herokuapp.com/",
-      "description": "An app where a user can search for recipes or restaurants by a specific food they enter in the search bar."
+      "description": "An app that allows users to create an account, enter recorded logs, and log in and review past logs."
     },
     {
       "id": 3,
-      "title": "Sticklers Paradise",
+      "title": "Dog Quiz",
       "image": "",
-      "repository": "https://github.com/sammiefrog/rules",
-      "liveLink": "https://sticklersparadise.herokuapp.com/",
-      "description": "An open sourced app to house game rules. Users can create an account and login to add games, or anyone can view or search games."
+      "repository": "https://github.com/josiecl/04-Coding-Quiz",
+      "liveLink": "https://josiecl.github.io/04-Coding-Quiz/",
+      "description": "A simple quiz using basic javascript and html about dogs and dog breeds."
     },
     {
       "id": 4,
-      "title": "README Generator",
+      "title": "Day Planner",
       "image": "",
-      "repository": "https://github.com/sammiefrog/readme-generator",
-      "liveLink": "https://github.com/sammiefrog/readme-generator",
-      "description": "A Node.js application to automatically generate a README.md file, using the Github API for users profile image."
+      "repository": "https://github.com/josiecl/05-Day-Planner",
+      "liveLink": "https://josiecl.github.io/05-Day-Planner/",
+      "description": "An app that allows users to set reminders per hour of the work day, and alerts users when that hour is over. Very helpful for scheduling during the work day."
     },
     {
       "id": 5,
-      "title": "Feed the Frog a Burger",
+      "title": "Budget Tracker",
       "image": "",
-      "repository": "https://github.com/sammiefrog/eat-da-burger",
-      "liveLink": "https://burger-frogs.herokuapp.com/",
-      "description": "A simple app demonstatrating the use of Handlebars, you one can add burgers and 'devour' or 'regurgitate' them."
+      "repository": "https://github.com/josiecl/18-Budget-Tracker",
+      "liveLink": "https://agile-falls-95966.herokuapp.com/",
+      "description": "An app that allows the users to input transactions in order to keep on top of their budget. Has offline functionality."
     },
     {
       "id": 6,
       "title": "Employee Directory",
       "image": "",
-      "repository": "https://github.com/sammiefrog/EmployeeDirectory",
-      "liveLink": "https://sammiefrog.github.io/EmployeeDirectory/",
-      "description": "A simple React app demonstrating the use of sorting and searching through a table of random user data."
+      "repository": "https://github.com/josiecl/19-React-Directory",
+      "liveLink": "https://josiecl.github.io/19-React-Directory/",
+      "description": "An app built in React that finds employees by the letters searched."
     }
 ]
