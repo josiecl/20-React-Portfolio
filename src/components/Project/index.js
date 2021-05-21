@@ -5,10 +5,8 @@ import codeQuiz from "../../assets/Screenshot (1053).png";
 import dayPlanner from "../../assets/Screenshot (1113).png";
 import budgetTracker from "../../assets/18-budget-2.PNG";
 import employeeDir from "../../assets/19-directory-1.PNG";
-const base = "../../assets/"
 
-
-// Keeps giving error, unsure why
+// function to take projects and fill in info from project.json
 function Project(props) {
     let imageSrc;
     switch (props.image) {
@@ -36,10 +34,6 @@ function Project(props) {
             imageSrc = employeeDir
 
             break;
-    
-        // default:
-            
-        //     break;
     }
     return (
         <div className="container webContain">

@@ -9,11 +9,11 @@ const Portfolio = () => {
   return (
     <Container fluid>
       <Row>
-        <Col size="sm-3">
+        <Col size="sm-3" />
           
-        </Col>
+        {/* Projects made go here */}
         <Col size="sm-6">
-        <h2 class="title ">Websites I've Made</h2>
+          <h2 class="title ">Websites I've Made</h2>
           {ProjectContent.map((project) => (
             <Project
               title = {project.title}
@@ -24,9 +24,8 @@ const Portfolio = () => {
             />
           ))}
         </Col>
-        <Col size="sm-3">
-          
-        </Col>
+        
+        <Col size="sm-3" />
       </Row>
     </Container>
   );
