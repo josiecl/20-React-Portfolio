@@ -8,7 +8,7 @@
 * [LiveLink](#livelink)
 
 ## Description
-My portfolio and contact information, remade in Reactjs. It contains 6 projects that I've worked on, along with an 'about me' section, and links to my github and linkedin. It also has ways to contact me.
+My portfolio and contact information, remade in React.js. It contains 6 projects that I've worked on, along with an 'about me' section, and links to my github and linkedin. It also has ways to contact me.
 
 ## Background
 I made this to demonstrate my ability to code using React. I have a portfolio very similar made using basic javascript and html, but now with React it is more optimized and better-made, as I have better learned to code since then.
@@ -22,4 +22,4 @@ I made this to demonstrate my ability to code using React. I have a portfolio ve
 ![Screenshot Contact Page](https://user-images.githubusercontent.com/74507818/119079173-3a1f0100-b9bd-11eb-9c99-723ecdf593d2.PNG)
 
 ## LiveLink
-[Deployed URL]()
+[Deployed URL](https://josiecl.github.io/20-React-Portfolio)
