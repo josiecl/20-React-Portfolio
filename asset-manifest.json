@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/20-React-Portfolio/static/css/main.a6e058d9.chunk.css",
+    "main.css": "/20-React-Portfolio/static/css/main.d109795d.chunk.css",
     "main.js": "/20-React-Portfolio/static/js/main.3358c335.chunk.js",
     "main.js.map": "/20-React-Portfolio/static/js/main.3358c335.chunk.js.map",
     "runtime-main.js": "/20-React-Portfolio/static/js/runtime-main.4d1854b5.js",
@@ -10,7 +10,7 @@
     "static/js/2.8335a31c.chunk.js.map": "/20-React-Portfolio/static/js/2.8335a31c.chunk.js.map",
     "index.html": "/20-React-Portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/20-React-Portfolio/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.a6e058d9.chunk.css.map": "/20-React-Portfolio/static/css/main.a6e058d9.chunk.css.map",
+    "static/css/main.d109795d.chunk.css.map": "/20-React-Portfolio/static/css/main.d109795d.chunk.css.map",
     "static/js/2.8335a31c.chunk.js.LICENSE.txt": "/20-React-Portfolio/static/js/2.8335a31c.chunk.js.LICENSE.txt",
     "static/media/18-budget-2.8cef21f7.PNG": "/20-React-Portfolio/static/media/18-budget-2.8cef21f7.PNG",
     "static/media/19-directory-1.8d9fa8c2.PNG": "/20-React-Portfolio/static/media/19-directory-1.8d9fa8c2.PNG",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.4d1854b5.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.8335a31c.chunk.js",
-    "static/css/main.a6e058d9.chunk.css",
+    "static/css/main.d109795d.chunk.css",
     "static/js/main.3358c335.chunk.js"
   ]
 }
