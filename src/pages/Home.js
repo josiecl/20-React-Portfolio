@@ -15,9 +15,9 @@ const Home = () => {
           <div className="aboutMeBorder">
             <div  className="aboutMe">
               <h1 className="titleWord">About Me</h1>
-              <p>My name is Josephine Collins, but I go by Josie. I am nearly 20 years old and currently studying to be a programmer. I am interested in a career in writing, coding, and video game development.</p>
-              <p>I graduated from the School of Environmental Studies in 2019. After this, I went to Normandale Community College, and tried a couple of classes. I found computer science the most compelling, and decided to pursue a career in it. I'll be continuing to study computer science after this program, as I will be attending the University of Wisconsin: Stout in fall of 2021. I will be taking the video game specific course, in order to learn programming for video games.</p>
-              <p>Thanks to this course, I have made several script-intensive projects, which have greatly helped me gain an understanding of coding. These projects have not necessarily been easy but they have been necessary in my journey to become a better programmer. View some of these either on my github or on my portfolio page.</p>
+              <p>My name is Josie Collins, and I am a software developer.</p>
+              <p>I currently attend the University of Wisconsin, Stout. I am studying computer science, with a concentration in game design and development. So far, I have learned both C++ and Java while attending UW Stout.</p>
+              <p>Prior to attending Stout, I took a full-stack flex coding bootcamp through the University of Minnesota. This program gave me several skills to help me become a better programmer and taught me how to create and design my own websites while also working and communicating with a team.</p>
             </div>
           </div>
         </Col>
